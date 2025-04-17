@@ -17,7 +17,7 @@ This project was developed to:
 
  🗂️ Dataset Information
 
-- Source: [Kaggle - Global Power Plant Database](https://www.kaggle.com/)
+- Source: [Kaggle - Global Power Plant Database]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ramjasmaurya/global-powerplants))
 - Fields Used:
   - `country_long`, `capacity in MW`, `generation_gwh_2021`, `primary_fuel`, `start date`, `owner of plant`, `latitude`, `longitude`
 - Target Year: 2021
