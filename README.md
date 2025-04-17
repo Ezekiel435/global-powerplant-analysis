@@ -76,6 +76,7 @@ Performed using Power Query in Power BI:
 
 - `PowerPlant.pdf` – Dashboard overview
 - `Power Plant Analytics Report.pdf` – Detailed analysis report
+- `PowerPlant.pbix` - Power Bi file
 - `README.md` – Project documentation
 
 ---
